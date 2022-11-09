@@ -1,11 +1,8 @@
-We have used macbook intel processor to run this program how ever it didn't work MacBook Pro M1. 
+We have used macbook intel processor to run this program however it didn't work on MacBook Pro M1. 
 
-We have created three initial users
-
-Username / password
-1. arefin / 1
-2. arif / 1
-3. s / 1
+Please create two folders inside node1 before executing program, because due to security purpose, I have deleted both : 
+1. myPrivateKey
+2. pubkeys
 
 
 Note :
